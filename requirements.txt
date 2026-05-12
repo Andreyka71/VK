@@ -1,0 +1,9 @@
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+trl
+pillow
+tqdm
+hf_transfer

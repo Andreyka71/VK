@@ -1,0 +1,607 @@
+{
+  "accuracy": 0.28,
+  "correct": 28,
+  "total": 100,
+  "results": [
+    {
+      "question": "За каким предметом мебели находятся шторы?",
+      "prediction": "стул",
+      "ground_truth": "диван",
+      "correct": false
+    },
+    {
+      "question": "За что держится человек?",
+      "prediction": "веревку",
+      "ground_truth": "за очки",
+      "correct": false
+    },
+    {
+      "question": "Ожерелье выглядит толстым?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Какого цвета капуста рядом с цветной капустой?",
+      "prediction": "оранжевая",
+      "ground_truth": "фиолетовый",
+      "correct": false
+    },
+    {
+      "question": "Вы видите и шлемы, и лыжи?",
+      "prediction": "да",
+      "ground_truth": "нет",
+      "correct": false
+    },
+    {
+      "question": "Какого цвета деревья рядом с машинами?",
+      "prediction": "коричневого",
+      "ground_truth": "зелёные",
+      "correct": false
+    },
+    {
+      "question": "Эта женщина блондинка?",
+      "prediction": "да",
+      "ground_truth": "нет",
+      "correct": false
+    },
+    {
+      "question": "Чем прикрыт мужчина?",
+      "prediction": "шляпа",
+      "ground_truth": "зонтом",
+      "correct": false
+    },
+    {
+      "question": "Эта девушка европеоидной или азиатской расы?",
+      "prediction": "азиатской",
+      "ground_truth": "азиатской",
+      "correct": true
+    },
+    {
+      "question": "Рядом с кем сидит пожилой человек?",
+      "prediction": "мужчина",
+      "ground_truth": "девочка",
+      "correct": false
+    },
+    {
+      "question": "Отличается ли верёвка по цвету от велосипеда?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Это коричневая полка?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Высокие здания низкие или высокие?",
+      "prediction": "низкие",
+      "ground_truth": "высокие",
+      "correct": false
+    },
+    {
+      "question": "Какое устройство находится справа от миски?",
+      "prediction": "ноутбук",
+      "ground_truth": "клавиатура",
+      "correct": false
+    },
+    {
+      "question": "Разделочная доска сделана из того же материала, что и стол?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Есть ли здесь стол или тарелка прямоугольной формы?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "То окно, которое не узкое, серое?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Кто сидит рядом с женщиной?",
+      "prediction": "мужчина",
+      "ground_truth": "мужчина",
+      "correct": true
+    },
+    {
+      "question": "С какой стороны картины находится лампочка?",
+      "prediction": "слева",
+      "ground_truth": "справа",
+      "correct": false
+    },
+    {
+      "question": "Что находится перед лестницей?",
+      "prediction": "стул",
+      "ground_truth": "двери",
+      "correct": false
+    },
+    {
+      "question": "Кто наклоняется?",
+      "prediction": "мужчина",
+      "ground_truth": "футболист",
+      "correct": false
+    },
+    {
+      "question": "Кто пинает футбольный мяч?",
+      "prediction": "тренер",
+      "ground_truth": "мальчик",
+      "correct": false
+    },
+    {
+      "question": "Деревья и лиственные, и яркие?",
+      "prediction": "да",
+      "ground_truth": "да",
+      "correct": true
+    },
+    {
+      "question": "Видишь ли ты вафли слева от вилки?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Большая ли ванная комната?",
+      "prediction": "больше",
+      "ground_truth": "нет",
+      "correct": false
+    },
+    {
+      "question": "Чем покрыта белая сторона горы?",
+      "prediction": "горкой",
+      "ground_truth": "небом",
+      "correct": false
+    },
+    {
+      "question": "Весло синее?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Телевизор выключен?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Отличается ли форма тарелки от формы миски?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "У этого рюкзака есть синий цвет?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Что держит мужчина, который выглядит тяжёлым?",
+      "prediction": "бейсбол",
+      "ground_truth": "телефон",
+      "correct": false
+    },
+    {
+      "question": "Есть ли на картинке мячи или скворечники?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "На изображении есть и окна, и двери?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Штаны мягкие и фиолетовые?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Какого цвета перчатка?",
+      "prediction": "красного",
+      "ground_truth": "черный",
+      "correct": false
+    },
+    {
+      "question": "В чем сидит пилот?",
+      "prediction": "самолет",
+      "ground_truth": "в кресле",
+      "correct": false
+    },
+    {
+      "question": "Какой высоты телефоны?",
+      "prediction": "низкие",
+      "ground_truth": "высокие",
+      "correct": false
+    },
+    {
+      "question": "Шкаф и книжная полка за кроватью заполнены?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Это круглый стол?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Насколько чистая улица?",
+      "prediction": "чистая",
+      "ground_truth": "грязная",
+      "correct": false
+    },
+    {
+      "question": "Какое животное смотрит на маленькую ветку дерева?",
+      "prediction": "собака",
+      "ground_truth": "зебры",
+      "correct": false
+    },
+    {
+      "question": "Человек носит очки?",
+      "prediction": "да",
+      "ground_truth": "нет",
+      "correct": false
+    },
+    {
+      "question": "Какая форма у книги?",
+      "prediction": "квадратная",
+      "ground_truth": "прямоугольная",
+      "correct": false
+    },
+    {
+      "question": "Что находится на деревянной полке?",
+      "prediction": "книга",
+      "ground_truth": "книга",
+      "correct": true
+    },
+    {
+      "question": "Из чего сделана ванна?",
+      "prediction": "металл",
+      "ground_truth": "фарфор",
+      "correct": false
+    },
+    {
+      "question": "Потолок находится над ванной?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Этот развлекательный центр полный и деревянный?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Ракетка имеет другой цвет, чем пол?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "С какой стороны монитор?",
+      "prediction": "слева",
+      "ground_truth": "справа",
+      "correct": false
+    },
+    {
+      "question": "Кто указывает на розовую вещь слева от бутылки с водой?",
+      "prediction": "мужчина",
+      "ground_truth": "девочка",
+      "correct": false
+    },
+    {
+      "question": "Какая одежда не мятая?",
+      "prediction": "шлем",
+      "ground_truth": "шляпа",
+      "correct": false
+    },
+    {
+      "question": "Торт находится слева или справа от ножа, который выглядит синим?",
+      "prediction": "справа",
+      "ground_truth": "слева",
+      "correct": false
+    },
+    {
+      "question": "Скорая помощь, которая находится слева от рабочих, припаркована рядом с амбаром?",
+      "prediction": "да",
+      "ground_truth": "да",
+      "correct": true
+    },
+    {
+      "question": "Выполнены ли переключатель и дом из одного и того же материала?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Носки выглядят жёлтыми?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Что перед женщинами?",
+      "prediction": "стол",
+      "ground_truth": "рама окна",
+      "correct": false
+    },
+    {
+      "question": "Он высокий и старый?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Кто носит куртку?",
+      "prediction": "мужчина",
+      "ground_truth": "девочка",
+      "correct": false
+    },
+    {
+      "question": "За чем стоит игрок?",
+      "prediction": "скамейка",
+      "ground_truth": "за питчером",
+      "correct": false
+    },
+    {
+      "question": "Кто носит кепку?",
+      "prediction": "мужчина",
+      "ground_truth": "мальчик",
+      "correct": false
+    },
+    {
+      "question": "Есть ли картофель на этой фотографии?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Штаны коричневые?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Какого размера ванна?",
+      "prediction": "большая",
+      "ground_truth": "маленькая",
+      "correct": false
+    },
+    {
+      "question": "Какого размера открытая книга?",
+      "prediction": "большая",
+      "ground_truth": "большая",
+      "correct": true
+    },
+    {
+      "question": "Кто смотрит за кошкой?",
+      "prediction": "мужчина",
+      "ground_truth": "мужчина",
+      "correct": true
+    },
+    {
+      "question": "На каком предмете мебели висит толстовка?",
+      "prediction": "кровать",
+      "ground_truth": "стул",
+      "correct": false
+    },
+    {
+      "question": "Какое устройство закрыто, монитор или ноутбук?",
+      "prediction": "монитор",
+      "ground_truth": "монитор",
+      "correct": true
+    },
+    {
+      "question": "Кажется ли, что пожилые женщины идут пешком?",
+      "prediction": "да",
+      "ground_truth": "нет",
+      "correct": false
+    },
+    {
+      "question": "Цвет дорожного знака совпадает с цветом транспортного средства?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "С какой стороны туалетная бумага?",
+      "prediction": "слева",
+      "ground_truth": "слева",
+      "correct": true
+    },
+    {
+      "question": "Какой транспорт находится слева от женщины?",
+      "prediction": "автобус",
+      "ground_truth": "грузовик",
+      "correct": false
+    },
+    {
+      "question": "У сушилки для посуды и микроволновки одинаковый цвет?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Из какого материала сделана белая кровать, ткани или кожи?",
+      "prediction": "ткани",
+      "ground_truth": "ткани",
+      "correct": true
+    },
+    {
+      "question": "Где находится дорожный знак?",
+      "prediction": "знак",
+      "ground_truth": "на улице",
+      "correct": false
+    },
+    {
+      "question": "Какой транспорт находится позади вэна?",
+      "prediction": "автобус",
+      "ground_truth": "автомобиль",
+      "correct": false
+    },
+    {
+      "question": "Какая одежда не черная?",
+      "prediction": "пальто",
+      "ground_truth": "рубашка",
+      "correct": false
+    },
+    {
+      "question": "Что накрыто мужчиной?",
+      "prediction": "пальто",
+      "ground_truth": "шлем",
+      "correct": false
+    },
+    {
+      "question": "Что находится перед деревом?",
+      "prediction": "дерево",
+      "ground_truth": "кустарник",
+      "correct": false
+    },
+    {
+      "question": "Какая еда не жёлтая, сыр или пепперони?",
+      "prediction": "сыр",
+      "ground_truth": "пепперони",
+      "correct": false
+    },
+    {
+      "question": "Кто носит кепку?",
+      "prediction": "мужчина",
+      "ground_truth": "скейтбордист",
+      "correct": false
+    },
+    {
+      "question": "Что перед машиной?",
+      "prediction": "дерево",
+      "ground_truth": "жилой дом",
+      "correct": false
+    },
+    {
+      "question": "Что стоит на металлической полке?",
+      "prediction": "стол",
+      "ground_truth": "лампа",
+      "correct": false
+    },
+    {
+      "question": "С какой стороны изображения находится шлем?",
+      "prediction": "слева",
+      "ground_truth": "справа",
+      "correct": false
+    },
+    {
+      "question": "Кто стоит?",
+      "prediction": "мужчина",
+      "ground_truth": "мальчик",
+      "correct": false
+    },
+    {
+      "question": "Что находится на полу?",
+      "prediction": "стул",
+      "ground_truth": "диван",
+      "correct": false
+    },
+    {
+      "question": "Шорты выглядят черными?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "Что лежит рядом с мобильным телефоном?",
+      "prediction": "телефон",
+      "ground_truth": "пудра",
+      "correct": false
+    },
+    {
+      "question": "В какой части фотографии находятся пожилые мужчины, вверху или внизу?",
+      "prediction": "вверху",
+      "ground_truth": "внизу",
+      "correct": false
+    },
+    {
+      "question": "Скейтпарк выглядит твердым и гладким?",
+      "prediction": "нет",
+      "ground_truth": "да",
+      "correct": false
+    },
+    {
+      "question": "Какой транспорт находится перед входом?",
+      "prediction": "автобус",
+      "ground_truth": "фургон",
+      "correct": false
+    },
+    {
+      "question": "Юбка короткая и зелёная?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    },
+    {
+      "question": "На какой стороне изображения находится дом?",
+      "prediction": "слева",
+      "ground_truth": "справа",
+      "correct": false
+    },
+    {
+      "question": "Какое животное ведет человек, идущий впереди?",
+      "prediction": "собака",
+      "ground_truth": "коза",
+      "correct": false
+    },
+    {
+      "question": "Какого цвета, по-вашему, брюки?",
+      "prediction": "коричневые",
+      "ground_truth": "светло-синий",
+      "correct": false
+    },
+    {
+      "question": "Трава перед чем?",
+      "prediction": "деревья",
+      "ground_truth": "скалами",
+      "correct": false
+    },
+    {
+      "question": "Кто смотрит вверх?",
+      "prediction": "мужчина",
+      "ground_truth": "скейтбордист",
+      "correct": false
+    },
+    {
+      "question": "Какая одежда тёмная?",
+      "prediction": "пальто",
+      "ground_truth": "рубашка",
+      "correct": false
+    },
+    {
+      "question": "На чём висят светофоры?",
+      "prediction": "стол",
+      "ground_truth": "на кабелях",
+      "correct": false
+    },
+    {
+      "question": "Что находится перед растениями?",
+      "prediction": "столб",
+      "ground_truth": "лужайка",
+      "correct": false
+    },
+    {
+      "question": "У колонки белый цвет?",
+      "prediction": "нет",
+      "ground_truth": "нет",
+      "correct": true
+    }
+  ]
+}

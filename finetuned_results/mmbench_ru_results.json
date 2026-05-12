@@ -1,0 +1,607 @@
+{
+  "accuracy": 0.31,
+  "correct": 31,
+  "total": 100,
+  "results": [
+    {
+      "question": "Какой код на Python может сгенерировать содержимое изображения?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "Какой код на Python может сгенерировать содержимое изображения?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какой код на Python может сгенерировать содержимое изображения?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какой код на Python сгенерирует результат, показанный на изображении?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какова наиболее вероятная цель этого постера?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "На этом изображении показан план уроков для Майка. Можете сказать, в какое время Майк должен изучать биологию в среду?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Что значит этот знак?",
+      "prediction": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "На этом рисунке показано домашнее задание Анны на каждый будний день. Можешь сказать, что Анна должна делать во вторник?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении от Средиземного моря находится Германия?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Сербия относительно Средиземного моря?",
+      "prediction": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает данное изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Франция в Средиземном море?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой код на Python сгенерирует результат, показанный на изображении?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Чехия относительно Средиземного моря?",
+      "prediction": "B",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Северная Корея от Южной Кореи?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих заголовков лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Китай от Японии?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какой код на Python сгенерирует результат, показанный на изображении?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении от Средиземного моря находится Сирия?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какой код на Python может генерировать содержимое изображения?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Италия в Средиземном море?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Китай от Афганистана?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении от Чёрного моря находится Украина?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Туркменистан от Кыргызстана?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Туркменистан от Афганистана?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Для чего можно использовать формулу на этой картинке?",
+      "prediction": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Румыния от Средиземного моря?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Япония от Китая?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Туркменистан от Ирана?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Китай относительно Кыргызстана?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Бразилия от Перу?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении от Аргентины находится Чили?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении от Средиземного моря находится Румыния?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какая из приведенных подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Индия от Кыргызстана?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Китай от Монголии?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "Какая из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении Чили от Уругвая?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих описаний лучше всего соответствует этому изображению?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении от Индии находится Кыргызстан?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Перу относительно Чили?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих заголовков лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "Какой код на Python может создать содержимое изображения?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Канада в Атлантическом океане?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Иран от Туркменистана?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "Какой код на Python может сгенерировать содержимое изображения?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Замбия от Мадагаскара?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Индонезия от Австралии?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится Австралия от Новой Зеландии?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих заголовков лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В каком направлении находится Новая Зеландия от Австралии?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "В каком направлении находится ДРК от Мозамбика?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "В природе, какова связь между этими двумя существами?",
+      "prediction": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "question": "Какой из следующих подписей лучше всего описывает это изображение?",
+      "prediction": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "question": "Какое поведение человека описывает эта картинка?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В природе, каковы отношения между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Каковы взаимоотношения между этими двумя существами в природе?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В природе, какая связь между этими двумя существами?",
+      "prediction": "B",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какая взаимосвязь между этими двумя существами в природе?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какое поведение человека описывает эта картинка?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какое человеческое поведение описывает эта картинка?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В природе, какова взаимосвязь между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "В природе, какова взаимоотношения между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какая часть яблони может вырасти в новое дерево?",
+      "prediction": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "question": "Каковы отношения между этими двумя существами в природе?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "Какова природа взаимоотношений между этими двумя существами?",
+      "prediction": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "question": "Какое отношение в природе существует между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В природе, каковы взаимоотношения между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "Какое человеческое поведение описано на этой картинке?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "В природе, какова взаимосвязь между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В природе, каково отношение между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "question": "В природе, каковы взаимоотношения между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "question": "Какое человеческое поведение описывает эта картинка?",
+      "prediction": "A",
+      "ground_truth": "D",
+      "correct": false
+    },
+    {
+      "question": "В природе, какие отношения существуют между этими двумя существами?",
+      "prediction": "A",
+      "ground_truth": "B",
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "accuracy": 0.0,
+  "correct": 0,
+  "total": 100,
+  "results": [
+    {
+      "question": "Какая часть яблони может вырасти в новое дерево?",
+      "ground_truth": "A",
+      "prediction": "The apple is a fruit that can grow into a new tree.",
+      "correct": false
+    },
+    {
+      "question": "Из какого материала сделана эта лопатка?",
+      "ground_truth": "A",
+      "prediction": "Metal.",
+      "correct": false
+    },
+    {
+      "question": "Это место многолюдное?",
+      "ground_truth": "A",
+      "prediction": "Нет",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более красочное?",
+      "ground_truth": "A",
+      "prediction": "The image of the fish is more colorful than the image of the kitchen.",
+      "correct": false
+    },
+    {
+      "question": "Какая картинка ярче?",
+      "ground_truth": "A",
+      "prediction": "The image on the right is much brighter than the one on the left.",
+      "correct": false
+    },
+    {
+      "question": "Здесь много людей?",
+      "ground_truth": "A",
+      "prediction": "Yes, there is a large crowd of people in the image.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более яркое?",
+      "ground_truth": "A",
+      "prediction": "The image on the left is more vibrant and colorful.",
+      "correct": false
+    },
+    {
+      "question": "Которое изображение более яркое?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more vibrant, as it is a close-up of a street light",
+      "correct": false
+    },
+    {
+      "question": "Какая картина более яркая?",
+      "ground_truth": "A",
+      "prediction": "The image on the right is more vibrant.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более красочное?",
+      "ground_truth": "B",
+      "prediction": "The image on the right is more beautiful.",
+      "correct": false
+    },
+    {
+      "question": "Какое свойство является общим для этих двух объектов?",
+      "ground_truth": "B",
+      "prediction": "Общим для этих двух объектов является то, что они оба являются продуктами питания.",
+      "correct": false
+    },
+    {
+      "question": "Какая картинка более красочная?",
+      "ground_truth": "B",
+      "prediction": "The image on the right is more colorful.",
+      "correct": false
+    },
+    {
+      "question": "Какая картинка более яркая?",
+      "ground_truth": "A",
+      "prediction": "The image on the left is more vibrant, as it features a red car on a road. The",
+      "correct": false
+    },
+    {
+      "question": "Какая из картинок более красочная?",
+      "ground_truth": "A",
+      "prediction": "The one on the left.",
+      "correct": false
+    },
+    {
+      "question": "Какая из изображений более яркое?",
+      "ground_truth": "A",
+      "prediction": "The image on the left is more vibrant and colorful.",
+      "correct": false
+    },
+    {
+      "question": "Какая картинка более красочная?",
+      "ground_truth": "A",
+      "prediction": "The image on the left is more beautiful.",
+      "correct": false
+    },
+    {
+      "question": "Какая из изображений более яркая?",
+      "ground_truth": "A",
+      "prediction": "The image on the right is more vibrant.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более яркое?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more vibrant.",
+      "correct": false
+    },
+    {
+      "question": "Какая картинка более красочная?",
+      "ground_truth": "A",
+      "prediction": "The image on the left is more colorful than the image on the right.",
+      "correct": false
+    },
+    {
+      "question": "Какая картинка более яркая?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more vibrant.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более яркое?",
+      "ground_truth": "B",
+      "prediction": "The image with the peacock is more vibrant and colorful.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более красочное?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more colorful.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более красочное?",
+      "ground_truth": "A",
+      "prediction": "The image on the left is more colorful.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более красочное?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more colorful.",
+      "correct": false
+    },
+    {
+      "question": "Какая изображение более красочная?",
+      "ground_truth": "A",
+      "prediction": "The image on the right is more colorful.",
+      "correct": false
+    },
+    {
+      "question": "Какая картинка более яркая?",
+      "ground_truth": "A",
+      "prediction": "The image of the dragonfly is more vibrant and colorful than the image of the cell phone. The dragonfly",
+      "correct": false
+    },
+    {
+      "question": "Это место переполнено?",
+      "ground_truth": "B",
+      "prediction": "No",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более яркое?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more vibrant.",
+      "correct": false
+    },
+    {
+      "question": "Какая из картинок более яркая?",
+      "ground_truth": "A",
+      "prediction": "The image on the left is more vibrant, as it features a colorful bird standing on the beach.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более яркое?",
+      "ground_truth": "A",
+      "prediction": "The image on the right is more vibrant.",
+      "correct": false
+    },
+    {
+      "question": "Следующее утверждение о нашей солнечной системе истинно или ложно?\nСамая маленькая планета состоит в основном из камня.",
+      "ground_truth": "B",
+      "prediction": "Ложно.\nОкружающая планета состоит в основном из камня.\nОкружа",
+      "correct": false
+    },
+    {
+      "question": "Согласно временной шкале, когда люди начали играть в поло?",
+      "ground_truth": "B",
+      "prediction": "The image does not provide any information about the time when people started playing in the sport of polo.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более яркое?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more vibrant and colorful.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более яркое?",
+      "ground_truth": "A",
+      "prediction": "The image on the right is more vibrant.",
+      "correct": false
+    },
+    {
+      "question": "Каким свойством обладают эти три объекта?",
+      "ground_truth": "B",
+      "prediction": "These objects are made of silk.",
+      "correct": false
+    },
+    {
+      "question": "Судя по таблице, что изобрела Рут Хэндлер?",
+      "ground_truth": "B",
+      "prediction": "The table does not provide enough information to determine the inventor of the toy.",
+      "correct": false
+    },
+    {
+      "question": "Основываясь на цепочке событий, какое событие происходит раньше в легенде?",
+      "ground_truth": "B",
+      "prediction": "The first event in the legend of John Henry is that he was born in 1815",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более яркое?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more vibrant, as it features a close-up of a person'",
+      "correct": false
+    },
+    {
+      "question": "Какой из следующих ископаемых моложе? Выберите наиболее вероятный ответ.",
+      "ground_truth": "B",
+      "prediction": "Insect.",
+      "correct": false
+    },
+    {
+      "question": "Какая черта есть у этой рыжей белки?",
+      "ground_truth": "A",
+      "prediction": "The squirrel has a bushy tail.",
+      "correct": false
+    },
+    {
+      "question": "Чей рот также приспособлен для разрывания мяса?",
+      "ground_truth": "B",
+      "prediction": "No, the teeth are not designed for ripping meat. They are designed for biting and chewing.",
+      "correct": false
+    },
+    {
+      "question": "Пластик является минералом?",
+      "ground_truth": "B",
+      "prediction": "Yes, the material is a mineral.",
+      "correct": false
+    },
+    {
+      "question": "Два магнита расположены так, как показано на рисунке. Будут ли эти магниты притягиваться или отталкиваться?",
+      "ground_truth": "B",
+      "prediction": "Поскольку на изображении два магнита расположены так, что они притягиваются друг к другу",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение является более ярким?",
+      "ground_truth": "A",
+      "prediction": "The image on the left is more vibrant, as it is a colorful, sunny day with a clear",
+      "correct": false
+    },
+    {
+      "question": "Является ли самородная медь минералом?",
+      "ground_truth": "B",
+      "prediction": "No, the image shows a piece of food, not a mineral.",
+      "correct": false
+    },
+    {
+      "question": "Является ли следующее утверждение о нашей солнечной системе правдой или ложью?\nОбъем Марса более чем в три раза больше объема Меркурия.",
+      "ground_truth": "B",
+      "prediction": "Является ли это утверждение правдой или ложью?\nМарс - это пла",
+      "correct": false
+    },
+    {
+      "question": "Согласно хронологии, какое событие происходит после того, как Джеймс Маршалл обнаружил золото, и до того, как золото стало труднее найти?",
+      "ground_truth": "A",
+      "prediction": "The image shows a timeline of events, with the first event being the discovery of gold by James Marshall",
+      "correct": false
+    },
+    {
+      "question": "Какая картинка более красочная?",
+      "ground_truth": "B",
+      "prediction": "The image on the left is more beautiful because it features a white rose with green leaves, which is",
+      "correct": false
+    },
+    {
+      "question": "Два магнита расположены так, как показано на рисунке. Подсказка: Магниты, которые притягиваются, стремятся друг к другу. Магниты, которые отталкиваются, раздвигаются. Будут ли эти магниты притягиваться или отталкиваться?",
+      "ground_truth": "A",
+      "prediction": "Магниты, которые притягиваются, стремятся друг к другу. Магниты, которые",
+      "correct": false
+    },
+    {
+      "question": "Сравните средние кинетические энергии частиц в каждом образце. У какого образца более высокая температура?",
+      "ground_truth": "A",
+      "prediction": "The image is a black and white photo of two jars with different colored particles. The jar on the",
+      "correct": false
+    },
+    {
+      "question": "У какого раствора более высокая концентрация розовых частиц?",
+      "ground_truth": "C",
+      "prediction": "The solution with more pink particles is more concentrated.",
+      "correct": false
+    },
+    {
+      "question": "Описывает ли этот отрывок погоду или климат?",
+      "ground_truth": "A",
+      "prediction": "This description is about the weather and climate.",
+      "correct": false
+    },
+    {
+      "question": "Какое изображение более красочное?",
+      "ground_truth": "B",
+      "prediction": "More colorful image.",
+      "correct": false
+    },
+    {
+      "question": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих утверждений верно?",
+      "ground_truth": "C",
+      "prediction": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих",
+      "correct": false
+    },
+    {
+      "question": "Посмотрите на модели молекул ниже. Выберите простое вещество.",
+      "ground_truth": "A",
+      "prediction": "The model of the molecule below is a simple molecule. It is a carbon-based molecule. The",
+      "correct": false
+    },
+    {
+      "question": "Это место переполнено?",
+      "ground_truth": "B",
+      "prediction": "Нет",
+      "correct": false
+    },
+    {
+      "question": "У какого раствора более высокая концентрация зеленых частиц?",
+      "ground_truth": "C",
+      "prediction": "The solution with higher concentration of green particles is the one on the right.",
+      "correct": false
+    },
+    {
+      "question": "Исходя из временной шкалы, какое утверждение является верным?",
+      "ground_truth": "A",
+      "prediction": "The correct statement is that the American Revolution took place from 1775 to 17",
+      "correct": false
+    },
+    {
+      "question": "Какой термин соответствует изображению?",
+      "ground_truth": "B",
+      "prediction": "Archery.",
+      "correct": false
+    },
+    {
+      "question": "Дополните текст, чтобы описать диаграмму.\nЧастицы растворенного вещества двигались в обоих направлениях через проницаемую мембрану. Но больше частиц растворенного вещества переместилось через мембрану (). Когда концентрация на обеих сторонах стала равной, частицы достигли равновесия.",
+      "ground_truth": "A",
+      "prediction": "This is a diagram of a chemical reaction. The diagram shows that the concentration of the reactant and product",
+      "correct": false
+    },
+    {
+      "question": "Что лучше описывает экосистемы приливных бассейнов в заповеднике Tongue Point Marine Life Sanctuary?",
+      "ground_truth": "B",
+      "prediction": "Echinoderms, starfish, and sea urchins are among the marine life found in the shallow water",
+      "correct": false
+    },
+    {
+      "question": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих утверждений является верным?",
+      "ground_truth": "A",
+      "prediction": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих",
+      "correct": false
+    },
+    {
+      "question": "Посмотрите на картинку. Какое слово лучше всего описывает звук, который издаёт эта вода?",
+      "ground_truth": "A",
+      "prediction": "The sound of the water is a hissing sound.",
+      "correct": false
+    },
+    {
+      "question": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих утверждений является правильным?",
+      "ground_truth": "B",
+      "prediction": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих",
+      "correct": false
+    },
+    {
+      "question": "Какая из растворов имеет более высокую концентрацию фиолетовых частиц?",
+      "ground_truth": "C",
+      "prediction": "The solution on the left has a higher concentration of the purple particles.",
+      "correct": false
+    },
+    {
+      "question": "Какая из этих колоний была Южной колонией?",
+      "ground_truth": "B",
+      "prediction": "The map shows that the state of New Jersey is a part of the United States.",
+      "correct": false
+    },
+    {
+      "question": "Закончи предложение. Индийская летучая лисица это ().",
+      "ground_truth": "B",
+      "prediction": "Индийская летучая лисица это.",
+      "correct": false
+    },
+    {
+      "question": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих утверждений является верным?",
+      "ground_truth": "C",
+      "prediction": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих",
+      "correct": false
+    },
+    {
+      "question": "Каковы природные отношения между этими животными?",
+      "ground_truth": "A",
+      "prediction": "The image shows a lion and a zebra lying down in a grassy field. The lion is a predator",
+      "correct": false
+    },
+    {
+      "question": "Какой термин соответствует изображению?",
+      "ground_truth": "A",
+      "prediction": "The term \"wave\" is often used to describe the shape of the curve in the image. However",
+      "correct": false
+    },
+    {
+      "question": "Какой термин соответствует картинке?",
+      "ground_truth": "B",
+      "prediction": "The term \"water\" is often used to describe the liquid in the glass. However, in this",
+      "correct": false
+    },
+    {
+      "question": "Слева от маленького зеленого объекта находится большой металлический предмет; какой он формы?",
+      "ground_truth": "B",
+      "prediction": "It is a round metal object.",
+      "correct": false
+    },
+    {
+      "question": "Каков характер взаимоотношений этих животных?",
+      "ground_truth": "B",
+      "prediction": "The image shows a ladybug and a moth, both of which are pollinators. The ladybug is feeding",
+      "correct": false
+    },
+    {
+      "question": "Какова природа взаимоотношений этих животных?",
+      "ground_truth": "A",
+      "prediction": "The image shows a cheetah and a gazelle running through a grassy field. The cheetah is a predator,",
+      "correct": false
+    },
+    {
+      "question": "Какое из решений имеет более высокую концентрацию зеленых частиц?",
+      "ground_truth": "B",
+      "prediction": "The solution with higher concentration of green particles has a higher concentration of the solute.",
+      "correct": false
+    },
+    {
+      "question": "Какой термин соответствует изображению?",
+      "ground_truth": "B",
+      "prediction": "The term \"volcano\" is commonly used to describe the large, fiery crater in the image.",
+      "correct": false
+    },
+    {
+      "question": "Одинаковые ли две фигуры на картинке?",
+      "ground_truth": "B",
+      "prediction": "Yes, the two figures on the image are identical.",
+      "correct": false
+    },
+    {
+      "question": "Что такое пальцы на банановом растении?",
+      "ground_truth": "A",
+      "prediction": "Пальцы на банановом растении - это зеленые листья, которые растут на расте",
+      "correct": false
+    },
+    {
+      "question": "Какой раствор имеет более высокую концентрацию синих частиц?",
+      "ground_truth": "A",
+      "prediction": "The solution on the right has a higher concentration of blue particles.",
+      "correct": false
+    },
+    {
+      "question": "Есть объект, который находится и слева от серой сферы, и справа от маленького цилиндра; какой это формы?",
+      "ground_truth": "A",
+      "prediction": "The object is a cube.",
+      "correct": false
+    },
+    {
+      "question": "Судя по цепочке событий, когда Тинкер Белл была отравлена?",
+      "ground_truth": "B",
+      "prediction": "TINKER BEALL WAS ABANDONED BY THE CHURCH.\nTinker Bell was abandoned",
+      "correct": false
+    },
+    {
+      "question": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих утверждений верно?",
+      "ground_truth": "C",
+      "prediction": "Подумайте о магнитной силе между магнитами в каждой паре. Какое из следующих",
+      "correct": false
+    },
+    {
+      "question": "Каковы природные отношения между этими животными?",
+      "ground_truth": "A",
+      "prediction": "The image shows a crow and a crab on a sandy beach. The crow is standing on the sand",
+      "correct": false
+    },
+    {
+      "question": "Каковы природные взаимоотношения этих животных?",
+      "ground_truth": "B",
+      "prediction": "The image shows a crocodile and a bird, possibly a blue jay, sitting together in a body of",
+      "correct": false
+    },
+    {
+      "question": "Какой термин соответствует изображению?",
+      "ground_truth": "A",
+      "prediction": "bacterium.",
+      "correct": false
+    },
+    {
+      "question": "Какова природа взаимоотношений этих животных?",
+      "ground_truth": "B",
+      "prediction": "The image shows two fish, one orange and one white, swimming together in a coral reef. They",
+      "correct": false
+    },
+    {
+      "question": "Какой термин соответствует изображению?",
+      "ground_truth": "B",
+      "prediction": "The image features a piece of rock.",
+      "correct": false
+    },
+    {
+      "question": "Конфеты в двух банках на картинке одного цвета?",
+      "ground_truth": "B",
+      "prediction": "No.",
+      "correct": false
+    },
+    {
+      "question": "На картинке ручки одного размера?",
+      "ground_truth": "B",
+      "prediction": "No.",
+      "correct": false
+    },
+    {
+      "question": "Что делают ежи, когда они боятся?",
+      "ground_truth": "B",
+      "prediction": "Обычно ежи, когда они боятся, пытаются убежать или укрыться, чтобы",
+      "correct": false
+    },
+    {
+      "question": "Какой термин соответствует картинке?",
+      "ground_truth": "B",
+      "prediction": "snowflake",
+      "correct": false
+    },
+    {
+      "question": "Две банки с конфетами на изображении имеют одинаковую форму?",
+      "ground_truth": "A",
+      "prediction": "No.",
+      "correct": false
+    },
+    {
+      "question": "Каковы природные взаимоотношения этих животных?",
+      "ground_truth": "B",
+      "prediction": "The image shows a ladybug and a butterfly, both of which are pollinators. They are coexisting",
+      "correct": false
+    },
+    {
+      "question": "Дополните предложение.\nАфриканский слон — () сухопутное животное в мире.",
+      "ground_truth": "B",
+      "prediction": "African elephant — the largest land animal in the world.",
+      "correct": false
+    },
+    {
+      "question": "Какой раствор имеет более высокую концентрацию фиолетовых частиц?",
+      "ground_truth": "A",
+      "prediction": "The solution on the right has a higher concentration of the purple particles.",
+      "correct": false
+    },
+    {
+      "question": "Какова природа взаимоотношений этих животных?",
+      "ground_truth": "B",
+      "prediction": "The image shows a bee and a bee larva, both pollinating flowers. The bee is buzzing around",
+      "correct": false
+    },
+    {
+      "question": "Исходя из временной шкалы, какое из следующих утверждений является верным?",
+      "ground_truth": "A",
+      "prediction": "The time scale shows that the time is 10000 years ago.",
+      "correct": false
+    },
+    {
+      "question": "Два дивана на картинке одного цвета?",
+      "ground_truth": "B",
+      "prediction": "No.",
+      "correct": false
+    },
+    {
+      "question": "Какова природа отношений между этими животными?",
+      "ground_truth": "C",
+      "prediction": "The image shows a spider and a worm, with the worm sitting on the back of the spider.",
+      "correct": false
+    },
+    {
+      "question": "На картинке одна игрушка – медведь, а другая – кошка. Они одного размера?",
+      "ground_truth": "B",
+      "prediction": "The image shows a cat and a teddy bear, both of which are of different sizes.",
+      "correct": false
+    }
+  ]
+}
